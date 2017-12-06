@@ -1,0 +1,9 @@
+CACHE MANIFEST
+
+CACHE:
+/microbit-sam.github.io/bluebird.min.js
+/microbit-sam.github.io/pxtsim.js
+/microbit-sam.github.io/sim.js
+
+NETWORK:
+*

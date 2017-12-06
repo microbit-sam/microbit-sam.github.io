@@ -1,0 +1,60 @@
+CACHE MANIFEST
+
+CACHE:
+/microbit-sam.github.io/semantic.js
+/microbit-sam.github.io/main.js
+/microbit-sam.github.io/typescript.js
+/microbit-sam.github.io/marked/marked.min.js
+/microbit-sam.github.io/highlight.js/highlight.pack.js
+/microbit-sam.github.io/lzma/lzma_worker-min.js
+/microbit-sam.github.io/fuse.min.js
+/microbit-sam.github.io/jquery.js
+/microbit-sam.github.io/pxtlib.js
+/microbit-sam.github.io/pxtcompiler.js
+/microbit-sam.github.io/pxtblocks.js
+/microbit-sam.github.io/pxtwinrt.js
+/microbit-sam.github.io/pxteditor.js
+/microbit-sam.github.io/pxtsim.js
+/microbit-sam.github.io/blockly.css
+/microbit-sam.github.io/semantic.css
+/microbit-sam.github.io/rtlsemantic.css
+/microbit-sam.github.io/custom.css
+/microbit-sam.github.io/icons.css
+
+
+
+
+# blockly
+/microbit-sam.github.io/blockly/blockly_compressed.js
+/microbit-sam.github.io/blockly/blocks_compressed.js
+/microbit-sam.github.io/blockly/msg/js/en.js
+/microbit-sam.github.io/blockly/media/sprites.png
+/microbit-sam.github.io/blockly/media/click.mp3
+/microbit-sam.github.io/blockly/media/disconnect.wav
+/microbit-sam.github.io/blockly/media/delete.mp3
+
+# monaco; keep in sync with webapp/public/index.html
+/microbit-sam.github.io/vs/loader.js
+/microbit-sam.github.io/vs/base/worker/workerMain.js
+/microbit-sam.github.io/vs/basic-languages/src/bat.js
+/microbit-sam.github.io/vs/basic-languages/src/cpp.js
+/microbit-sam.github.io/vs/editor/editor.main.css
+/microbit-sam.github.io/vs/editor/editor.main.js
+/microbit-sam.github.io/vs/editor/editor.main.nls.js
+/microbit-sam.github.io/vs/language/json/jsonMode.js
+/microbit-sam.github.io/vs/language/json/jsonWorker.js
+/microbit-sam.github.io/vs/language/typescript/lib/typescriptServices.js
+/microbit-sam.github.io/vs/language/typescript/src/mode.js
+/microbit-sam.github.io/vs/language/typescript/src/worker.js
+
+# ai
+https://az416426.vo.msecnd.net/scripts/a/ai.0.js
+
+/microbit-sam.github.io/worker.js
+# ver Wed Dec 06 2017 11:05:37 GMT+0000 (GMT)
+@monacoworkerjs@
+
+/microbit-sam.github.io/target.js
+  
+NETWORK:
+*
