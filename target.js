@@ -199,7 +199,7 @@ var pxtTargetBundle = {
     "yottaTarget": "bbc-microbit-classic-gcc",
     "yottaCorePackage": "microbit",
     "githubCorePackage": "microbit-sam/microbit",
-    "gittag": "tuesday",
+    "gittag": "pf_v0.1",
     "serviceId": "microbit",
     "yottaBinary": "pxt-microbit-app-combined.hex"
   },
